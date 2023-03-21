@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94476981407",
+    "project_id": "carrotclone-c0057",
+    "storage_bucket": "carrotclone-c0057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94476981407:android:f40b3d07234748f42ffeaa",
+        "android_client_info": {
+          "package_name": "com.example.carrot_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94476981407-ahh1mm8mhjf9u8rh476efgif218cdbmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carrot_clone",
+            "certificate_hash": "bc26199710317f23d080c8654e3bbc2fa9f073cb"
+          }
+        },
+        {
+          "client_id": "94476981407-ddha1tsvbjkgetkgch3kne2u70n65ado.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsiSQ1Fu0NF5Gd17mCVmWsPFB9GslpmDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94476981407-ddha1tsvbjkgetkgch3kne2u70n65ado.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
